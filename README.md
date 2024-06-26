@@ -1,4 +1,4 @@
-# HAR_Deep_Learning_Architecture
+## HAR_Deep_Learning_Architecture
 
 The data are available in a publicly accessible repository. The data presented in this study are openly available.
 
